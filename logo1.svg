@@ -1,0 +1,16 @@
+<svg width="280" height="32" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with MK Tools - http://tool.mkblog.cn/svg/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="34" width="282" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text style="cursor: move;" font-weight="bold" stroke="#000" transform="matrix(0.7071202238980249,0,0,1.2222222089767454,-36.24991802450236,0.34374997951090336) " xml:space="preserve" text-anchor="start" font-family="Microsoft Yahei" font-size="24" id="svg_1" y="21.271307" x="126.06453" stroke-width="0" fill="#ff007f">壹陆捌</text>
+  <text font-style="italic" font-weight="bold" style="cursor: move;" stroke="#000" transform="matrix(1.1728386993957614,0,0,1,-41.39499963880216,0) " xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_2" y="24.453125" x="134.986784" stroke-opacity="null" stroke-width="0" fill="#00bf5f">间单导航</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="24" id="svg_3" y="48.453125" x="553.5" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#00bf00"/>
+ </g>
+</svg>
